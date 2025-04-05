@@ -5,8 +5,8 @@
     .minimum_zig_version = "0.14.0",
     .dependencies = .{
         .zuws = .{
-            .url = "git+https://github.com/harmony-co/zuws#2329a448ddcc0c2e4938f9175c15562837cd71cf",
-            .hash = "zuws-0.1.0-Tn_8FcN4AAANaAxaKC733KAaAaatQnP2oQu55niYov0_",
+            .url = "git+https://github.com/harmony-co/zuws#856c7e86c617228838a048338cb640dc5050973a",
+            .hash = "zuws-0.1.0-Tn_8FeHeAABUnj9qscA70XAuC4yb_2Hm4FNVKqsFKRLC",
         },
     },
     .paths = .{
